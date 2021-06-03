@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propositions of the Irish rebells (by the name of the Roman Catholiques of Ireland) presented to His Majestie in pursuance of their remonstrance of grievances, and annexed to the said remonstrance. Which being granted, the rebell doe offer to assist his Majestie with ten thousand Irish against the Parliament. And further to expose their lives and fortunes to serve His Majestie as occasion shall require. (Fit instruments to settle the Protestant religion.)</title>
+         </titleStmt>
+         <extent>Approx. 10KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91111</idno><idno type="EEBO-CITATION">99871937</idno>
+  <idno type="VID">155119</idno>
+  <idno type="EEBO-PROQUEST">2248517228</idno>
+  
+            <idno type="STC">Wing P3798</idno>
+            <idno type="STC">Thomason E49_11</idno>
+            <idno type="STC">ESTC R23223</idno>
+            <idno type="PROQUEST">99871937</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871937e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91111)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 155119)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 9:E49[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Propositions of the Irish rebells (by the name of the Roman Catholiques of Ireland) presented to His Majestie in pursuance of their remonstrance of grievances, and annexed to the said remonstrance. Which being granted, the rebell doe offer to assist his Majestie with ten thousand Irish against the Parliament. And further to expose their lives and fortunes to serve His Majestie as occasion shall require. (Fit instruments to settle the Protestant religion.)</title>
+               </titleStmt>
+               <extent>[2], 7 [i.e. 6] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by I.N. for Henry Twyford at the three Daggers in Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+                  <note>Annotation on Thomason copy: "May 22th".</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:155119:1"/>
+            <p>PROPOSITIONS OF THE IRISH REBELLS (By the Name of the <hi>Roman</hi> Catho<g ref="char:EOLhyphen"/>liques of <hi>Ireland</hi>) Presented to his MAJESTIE In pursuance of their Remonstrance of grie<g ref="char:EOLhyphen"/>vances, and annexed to the said Remonstrance.</p>
+            <p>Which being granted, the Rebell doe offer to assist his Majestie with ten thousand <hi>Irish</hi> against the Parliament.</p>
+            <p>And further to expose their lives and fortunes to serve His Majestie as occasion shall require.</p>
+            <p>
+               <hi>(Fit Instruments to settle the Protestant Religion.)</hi>
+            </p>
+            <p>LONDON, Printed by <hi>I.N.</hi> for <hi>Henry Twyford</hi> at the three Daggers in Fleet-street, 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:155119:2"/>
+            <pb n="1" facs="tcp:155119:2"/>
+            <head>Propositions of the Irish Re<g ref="char:EOLhyphen"/>bells, (by the name of the Ro<g ref="char:EOLhyphen"/>man Catholiques of <hi>Ireland</hi>) presented to His Majestie, &amp;c.</head>
+            <p n="1">1. <seg rend="decorInit">T</seg>Hat all Acts made against the Professors of the Roman Catholique Faith, where<g ref="char:EOLhyphen"/>by any Restraint, Penalty, Mulct, or Incapacity may be laid upon any Ro<g ref="char:EOLhyphen"/>man Catholique within the Kingdome of <hi>Ireland,</hi> may bee repealed, and the said Catholiques to be allowed the free<g ref="char:EOLhyphen"/>dome of the Roman Catholique Religion.</p>
+            <p n="2">2. That Your Majestie be pleased to call a free Parlia<g ref="char:EOLhyphen"/>ment in the said Kingdome, to be held and continued as in the said Remonstrance is expressed, and the Statute in the
+<pb n="2" facs="tcp:155119:3"/>tenth yeare of King <hi>Henry</hi> the seventh, called <hi>Poynings</hi> Act, and all Acts explaining or enlarging the same be suspen<g ref="char:EOLhyphen"/>ded during that Parliament for the speedy settlement of the present affaires, and the repeale the<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>of <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> be <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> con<g ref="char:EOLhyphen"/>sidered of.</p>
+            <p n="3">3. That all Acts and Ordinances made and passed in the now pretended Parliament in that Kingdome since the se<g ref="char:EOLhyphen"/>venth day of <hi>August</hi> 1641. bee clearly annulled and de<g ref="char:EOLhyphen"/>clared voyd, and taken off the File.</p>
+            <p n="4">4. That all Indictments, Attainders, Outlawrles in the Kings Bench or elsewhere since the said seventh of <hi>August</hi> 1641. and all Letters Patents, Grants, Leases, Custodiums, Bonds, Recognisances, and other Records, Act or Acts depending thereupon, or in prejudice of the said Catholiques or any of them, be taken off the Files, annulled and declared voyd: First by your Majesties Proclamation, and after to be passed in the said free Parliament.</p>
+            <p n="5">5. That in as much as under colour of such Out-lawries and Attainders, debts due to the said Catholiques, have been granted levied or disposed of, and on the other side that debts due upon the said Catholiques to those of the adverse party have been levyed and disposed to Publike use; That therefore all debts be by act of Parliament mutually relea<g ref="char:EOLhyphen"/>sed, or all to stand in <hi>Statu quo,</hi> notwithstanding any grant or disposition.</p>
+            <p n="6">6. That all late offices taken or found upon fained or old titles since the yeare 1634. to entitle your Majesty to seve<g ref="char:EOLhyphen"/>rall Countyes in <hi>Connaught Tho<gap reason="illegible" resp="#keyers" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>and,</hi> and in the Coun<g ref="char:EOLhyphen"/>tyes
+<pb n="3" facs="tcp:155119:3"/>of <hi>Tippary, Limericke, Kilke<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>y</hi> and <hi>Wickl<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>,</hi> be vacated and taken off the File, and the possessors settled and se<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed in their ancient estates by act of Parliament. And that the like Act of lymitation of your Majesties title for the securi<g ref="char:EOLhyphen"/>ty of the estates of your subjects of that Kingdome, be pas<g ref="char:EOLhyphen"/>sed in the said Parliament, as was enacted in the 21 yeare of his late Majesties raigne in this Kingdome.</p>
+            <p n="7">7. That all marks of incapacity imposed upon the Natives of that Kingdom to purchase or acquire Lands, Leases, Offi<g ref="char:EOLhyphen"/>ces, or hereditaments, be taken away by Act of Parliament, &amp; the same to extend to the securing of purchases, Leases, or Grants already made. And that for the education of youth an <gap reason="illegible" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> passed in the next Parliament, for the erecting of one or more Inns of Courts, Vniversities, free and Common Scholes.</p>
+            <p n="8">8. That the Offices and places of Command, Honour, Profit and Trust within that Kingdome, be conferred upon Roman Catholiques Natives in equality and indifferencie with your Majesties other subjects.</p>
+            <p n="9">9. That the insupportable oppressione of your Subjects by reason of the Court of Wards and respite of homage, be ta<g ref="char:EOLhyphen"/>ken away, and a certaine revenue in lieu thereof setled up<g ref="char:EOLhyphen"/>on your Majesty without diminution of your Majesties profit.</p>
+            <p n="10">10. That no Lord not estated in that Kingdome, or estated and not resident, shall have vote in the said Parliament by Proxie or otherwise, and none admitted to the House of Commons, but as shall bee estated and resident within the Kingdome.</p>
+            <pb n="4" facs="tcp:155119:4"/>
+            <p n="11">11. That an Act be passed in the next Parliament, declara<g ref="char:EOLhyphen"/>tory that the Parliament of <hi>Ireland</hi> is a free Parliament of it selfe, independent of, and not subordinate to, the Par<g ref="char:EOLhyphen"/>liament of <hi>England.</hi> And the subjects of <hi>Ireland</hi> are im<g ref="char:EOLhyphen"/>mediatly Subjects to your Majestie, as in right of your Crowne; And that the Members of the said Parliament of <hi>Ireland,</hi> and other the Subjects of <hi>Ireland</hi> are indepen<g ref="char:EOLhyphen"/>dent, and no way to be ordered or concluded by the Par<g ref="char:EOLhyphen"/>liament of <hi>England,</hi> and are onely to bee ordered and go<g ref="char:EOLhyphen"/>verned within that Kingdome by your Majestie, and such Governours as are or shall be there appointed, and by the power of that Kingdome according to the Lawes of the Land.</p>
+            <p n="12">12. That the assumed power or Jurisdiction in the Councell board, of determining all manner of Causes, bee limited to matters of State, and all Patents, Estates, and Graunts il<g ref="char:EOLhyphen"/>legally and extrajudicially avoyded, there or elsewhere, be left in state as before, and the parties grieved, their Heires, or Assignes, till legall eviction.</p>
+            <p n="13">13. That the Statutes of the eleven, twelve, and thirteene yeares of Queene <hi>Elizabeth</hi> concerning Staple commodi<g ref="char:EOLhyphen"/>ties be Repealed, reserving to his Majestie lawfull and just Boundage, and a booke of Rates to be setled by an indiffe<g ref="char:EOLhyphen"/>rent Committee of both Houses for all Commodities.</p>
+            <p n="14">14. That in as much as the long continuance of the chiefe Governour or Governours in that Kingdome, in that place of so great eminencie and power, hath beene a princi<g ref="char:EOLhyphen"/>pall occasion that much Tyrannie and oppression have been
+<pb n="5" facs="tcp:155119:4"/>exercised upon the Subjects of that Kingdome; That your Majestie will be pleased to continue such Governours here<g ref="char:EOLhyphen"/>after but for three yeares. And that none once imployed therein be appointed for the same againe untill the expira<g ref="char:EOLhyphen"/>tion of sixe yeares next after the expiration of the said three yeares: And that an Act passe to dis-inable such Gover<g ref="char:EOLhyphen"/>nour or Governours during their government; Directly or immediatly in use, trust, or otherwise to make any man<g ref="char:EOLhyphen"/>ner of purchase or Acquisition of any Manners, Lands, Te<g ref="char:EOLhyphen"/>nements, or Heriditaments within that Kingdome other then from your Majestie, your Heires or Successours.</p>
+            <p n="15">15. That an Act be passed in the next Parliament, for the raising and settling of trained Bands within the severall Counties of that Kingdome, as well to prevent forreigne In<g ref="char:EOLhyphen"/>vasions as to render them the more serviceable and ready for your Majesties occasions, as causes shall require.</p>
+            <p n="16">16. That an Act of oblivion be passed in the next free Par<g ref="char:EOLhyphen"/>liament to extend to all your Majesties Catholique Sub<g ref="char:EOLhyphen"/>jects, and their adherents for all manner of offences Cap<g ref="char:EOLhyphen"/>pitall, Criminall and Personall, and the said Act to ex<g ref="char:EOLhyphen"/>tend to all goods, and Chattles, Customes, Measne, Profits, Prises, Areares, of rents taken, received, or incurred since these troubles.</p>
+            <p n="17">17. For as much as your Majesties said Catholique Sub<g ref="char:EOLhyphen"/>jects have beene taxed with many inhumane cruelties which they never committed. Your Majesties said suppli<g ref="char:EOLhyphen"/>ants therefore for their vindication, and to manifest to all the world their desire to have such heinous offences puni<g ref="char:EOLhyphen"/>shed, &amp; the offenders brought to justice, do desire that in the next Parliament all notorious murthers breaches of Quar<g ref="char:EOLhyphen"/>ter
+<pb n="7" facs="tcp:155119:5"/>&amp; inhumane Cruelties committed of either side may be questioned in the said Parliament, (if your Majesty so thinke fit) and such as shall appeare to be guilty, to be e<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>cepted out of the Act of oblivion, and punished according <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> their deserts.</p>
+            <p>Forasmuch (Dread Soveraigne) as the waies of our ad<g ref="char:EOLhyphen"/>dresses unto your Majesty for apt remedies unto our gre<g ref="char:EOLhyphen"/>vances were hitherto debarred us, but now at le<gap reason="illegible" resp="#keyers" extent="2 letters">
+                  <desc>••</desc>
+               </gap>th through your benigne grace and favour, laid open, wee doe humbly prefent these, in pursuance of the said Remonstrance, which granted, your said Subjects are ready to contribute the 10000 men (as in their Remonstrance is specified) to<g ref="char:EOLhyphen"/>wards the suppressing of the unnaturall Rebellion now in this Kingdome, and will farther expose their lives and for<g ref="char:EOLhyphen"/>tunes to serve your Majesty as occasion shall require.</p>
+            <p>
+               <hi>Publish<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> according to Order.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
